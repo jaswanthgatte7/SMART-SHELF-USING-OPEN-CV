@@ -25,8 +25,9 @@ Whereas **Screenshot 2** shows the change in space available column when few Col
 3. Angular for Frontend application
 4. DBMS: MySQL
 
-*For more information, kindly email me at **sunnysetia93@gmail.com***
+*For more information, kindly email me at **jaswanthgatte7@gmail.com***
 
 **This repository is open to improvements and contributions would be appreciated.**
+
 
 
